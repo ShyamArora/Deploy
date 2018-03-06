@@ -1,5 +1,5 @@
 
-from translate import translator
+from translate import Translator
 
 
 def eng_to_french(text):
